@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>refactorizacion</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/refactorizacion/CribaTest.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/AppData/Local/Temp/Rar$DRa2836.15847/CribaTest.java</locationURI>
+		</link>
+		<link>
+			<name>src/refactorizacion/GeneradorDePrimos.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/AppData/Local/Temp/Rar$DRa2836.14417/GeneradorDePrimos.java</locationURI>
+		</link>
+		<link>
+			<name>src/refactorizacion/GeneradorDePrimosV2.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/AppData/Local/Temp/Rar$DRa2836.18335/GeneradorDePrimosV2.java</locationURI>
+		</link>
+		<link>
+			<name>src/refactorizacion/GenerarPrimos.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/AppData/Local/Temp/Rar$DRa2836.17219/Criba.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
